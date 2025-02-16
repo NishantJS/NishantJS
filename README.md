@@ -1,6 +1,3 @@
-[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishantJS&hide=contribs,stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 👋 Hi, I’m [@NishantJS](https://github.com/NishantJS/)
 - 🌎 I am a Web Developer
 - 👀 I’m interested in learning and building new thing which help others
@@ -8,7 +5,7 @@
 - 📫 You can reach me 
   1 [nishant.codes](https://nishant.codes)
   2 [LinkedIn](https://www.linkedin.com/in/nishant-chorge/)
-  3 [E-Mail](mailto:nishantchorge79@gmail.com)
+  3 [E-Mail](mailto:contact@nishant.codes)
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantJS&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
