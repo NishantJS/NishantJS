@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" alt="Welcome Animation" width="600"/>
+  <img src="https://github.com/NishantJS/NishantJS/blob/main/NishantJS_loading.gif" alt="Welcome Animation" width="600"/>
 </div>
 
 # Hi there, I'm Nishant Chorge 👋
