@@ -117,7 +117,7 @@ _August 2021 - May 2023_
 
 ## 📝 Resume Download
 
-For more details, download my full resume [here](./Nishant%20Full%20Stack%20Developer.pdf).
+For more details, download my full resume [here](./Nishant%20Chorge%20Software%20Developer.pdf).
 
 ---
 
